@@ -1,3 +1,5 @@
 git add .
 git commit -m "message update"
 git push -u origin main
+
+scp -rv build/* root@62.151.181.247:/var/www/liquid/

@@ -21,6 +21,7 @@ const Body = ({ disp }) => {
         />
         <Block text="Where i am from" content="I from around tirupati" />
         <Block text="Things i am good at" content="I from around tirupati" />
+        <Block text="Things i am bad at" content="coding" />
         {/* <div classname='pt-70'>
             What u expect! Still under construction. Come back .......maybe tommorow.
             </div> */}
